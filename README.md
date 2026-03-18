@@ -37,4 +37,6 @@ Para facilitar a visualização da análise sem necessidade de executar o códig
 
 👉 [Clique aqui para visualizar](./analise_vendas.html)
 
+## 📊 Exemplo de análise
 
+![Gráfico](grafico.png)
