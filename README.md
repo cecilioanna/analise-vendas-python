@@ -30,3 +30,11 @@ Foi possível identificar variações no faturamento ao longo dos meses, sugerin
 ## 🚀 Objetivo
 
 Este projeto foi desenvolvido com foco em aprendizado e construção de portfólio para a área de análise de dados.
+
+## 📎 Visualização do Projeto
+
+Para facilitar a visualização da análise sem necessidade de executar o código, o projeto também está disponível em formato HTML:
+
+👉 [Clique aqui para visualizar](./analise_vendas.html)
+
+
